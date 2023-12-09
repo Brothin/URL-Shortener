@@ -6,48 +6,6 @@ Url Shortener App is a small prototype of bit.ly,goo.gl and similar type of url 
 This app is made using CodeIgniter 3, Bootstrap 3 and Mysql.
 
 *******************
-Screenshots
-*******************
-
-
-Login
-
-.. image:: url-app-assets\url-app-login.png
-   :height: 300px
-   :width: 400px
-   :alt: Login screen
-
-
-Sign up
-
-.. image:: url-app-assets\url-app-signup.png
-   :height: 300px
-   :width: 400px
-   :alt: Sign up screen
-
-Home
-
-.. image:: url-app-assets\url-app-shorten-page.png?v=1.1
-   :height: 300px
-   :width: 400px
-   :alt: Home screen
-
-
-Profile
-
-.. image:: url-app-assets\url-app-profile.png
-   :height: 300px
-   :width: 400px
-   :alt: Profile screen
-
-
-History
-
-.. image:: url-app-assets\url-app-history.png?v=1.1
-   :height: 300px
-   :width: 400px
-   :alt: History screen
-*******************
 Server Requirements
 *******************
 
