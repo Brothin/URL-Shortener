@@ -1,6 +1,6 @@
-###################
-Url Shortener App
-###################
+
+# Url Shortener App
+
 
 Url Shortener App is a small prototype of bit.ly,goo.gl and similar type of url shorteners.
 This app is made using CodeIgniter 3, Bootstrap 3 and Mysql.
